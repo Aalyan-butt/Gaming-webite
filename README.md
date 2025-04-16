@@ -2,7 +2,7 @@
 
 A modern and interactive gaming website designed to provide an engaging and immersive experience for gaming enthusiasts. The website offers dynamic content, including game reviews, news, tutorials, and more, with a responsive and visually appealing design.
 
-![Gaming Website Banner](readme-images/banner.png)  <!-- You can replace this with an actual image in the `readme-images/` folder -->
+
 
 ## Table of Contents
 
